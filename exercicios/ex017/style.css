@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+*{
+
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*
+    Medidas Absoluttas:
+    cm, mm, in, px, pt, pc
+
+    Medidas Relativas:
+    em, ex, rem, vw, vh, %
+    16 px geralmente é igual a 1em
+    */
+    font-size: 1em;
+}
+
